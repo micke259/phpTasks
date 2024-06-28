@@ -1,6 +1,6 @@
 <?php
 
-//№1
+//№1 Найдите сумму всех целых чисел от 1 до 100.
 
 function counter():int{
 	$count = 0;
@@ -14,7 +14,7 @@ function counter():int{
 echo counter();
 echo "<pre>";
 
-//№2
+//№2 Найдите сумму всех целых четных чисел в промежутке от 1 до 100.
 
 function counterEven():int{
 	$count = 0; 
@@ -30,7 +30,7 @@ function counterEven():int{
 echo counterEven();
 echo "<pre>";
 
-//№3
+//№3 Найдите сумму всех целых нечетных чисел в промежутке от 1 до 100.
 
 function counterNotEven():int{
 	$count = 0; 
@@ -46,7 +46,7 @@ function counterNotEven():int{
 echo counterNotEven();
 echo "<pre>";
 
-//№4
+//№4 Даны два целых числа. Найдите остаток от деления первого числа на второе.
 
 $n_4 = 5;
 $b_4 = 4;
@@ -54,7 +54,7 @@ $b_4 = 4;
 echo $n_4%$b_4;
 echo "<pre>";
 
-//№5
+//№5 Дана некоторая строка. Переберите и выведите в консоль по очереди все символы с конца строки.
 
 $n_5= "[object Object]";
 for( $i = strlen($n_5)-1; $i >-1 ; $i--){
