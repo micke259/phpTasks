@@ -1,6 +1,6 @@
 <?php
 //Сделайте функцию, которая параметром будет принимать слово и возвращать массив его слогов.
-//TODO
+
 function yaEbal($word) {
     $result = [];
     $bukvas = ['а', 'е', 'ё', 'и', 'о', 'у', 'ы', 'э', 'ю', 'я'];
@@ -11,12 +11,16 @@ function yaEbal($word) {
         $item = mb_substr($word, $i, 1);
         $slog .= $item;
 		
-        if (in_array(mb_strtolower($item), $bukvas)) {
+        if (in_array(mb_strtolower($item), $bukvas) || $i === $length - 1) {
             $result[] = $slog;
             $slog = '';
         }
     }
 
+
+
+    
+  
     return $result;
 }
 echo "<pre>";
