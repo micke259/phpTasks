@@ -1,0 +1,20 @@
+../../texts/level_7/64/1.txt
+../../texts/level_7/64/2/1234.png
+../../texts/level_7/64/2/UcNlauDCse8.jpg
+../../texts/level_7/64/2/qjEnOg4pQpE.jpg
+../../texts/level_7/64/2/uploads_hands_hands_PNG931.png
+../../texts/level_7/64/2/v2ij7XhbITs.jpg
+../../texts/level_7/64/2/van.png
+../../texts/level_7/64/4/1.txt
+../../texts/level_7/64/4/2.txt
+../../texts/level_7/64/4/result.txt
+../../texts/level_7/64/5/1 copy 2.txt
+../../texts/level_7/64/5/1 copy 3.txt
+../../texts/level_7/64/5/1 copy.txt
+../../texts/level_7/64/5/1.txt
+../../texts/level_7/64/7/1.govno
+../../texts/level_7/64/7/2.govno
+../../texts/level_7/64/7/3.govno
+../../texts/level_7/64/7/4.govno
+../../texts/level_7/64/7/5.govno
+../../texts/level_7/64/wtf.html

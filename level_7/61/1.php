@@ -3,4 +3,5 @@
 $path = 'texts/level_7/61/1.txt';
 $phpPath = 'level_7/61/1.php';
 
-echo dirname(__DIR__);
+$file = file_get_contents('../../texts/level_7/61/1.txt');
+echo mb_strlen($file);
